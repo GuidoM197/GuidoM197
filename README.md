@@ -37,5 +37,5 @@ If you want to contact me or see more of my work, here are some useful links:
 
 ---
 
-⭐️ _Si te gusta mi trabajo, ¡no dudes en darle una estrella a mis proyectos en GitHub!_
+⭐️ _If you like my job, don't hesitate to star my projects on GitHub!_
 
