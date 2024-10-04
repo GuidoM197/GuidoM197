@@ -1,4 +1,4 @@
-I´m Guido Mauzzucco 👋
+I´m Guido Mazzucco 👋
 
 ## Software Engineer student, passionate about continuous learning and always seeking new knowledge and challenges
 
