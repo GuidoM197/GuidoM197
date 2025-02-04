@@ -12,6 +12,8 @@ Here are some of the technologies and tools that I use frequently:
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-ff603e?style=flat&logo=java&logoColor=white)
+  ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat&logo=clojure&logoColor=white)
 
 - **Frameworks and librarys**: 
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -33,7 +35,7 @@ Here are some of the technologies and tools that I use frequently:
 If you want to contact me or see more of my work, here are some useful links:
 
 - [LinkedIn](https://www.linkedin.com/in/guido-mazzucco-300a8a2a7/)
-- [Correo electrónico](mailto:guidomazzucco04@gmail.com)
+- [Email](mailto:guidomazzucco04@gmail.com)
 
 ---
 
