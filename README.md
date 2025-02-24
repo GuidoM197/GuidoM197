@@ -1,43 +1,61 @@
-I´m Guido Mazzucco 👋
+<h2 align="left">Hi 👋! My name is Guido Mazzucco and I'm a Software Engineering student at UBA.</h2>
 
-## Software Engineer student, passionate about continuous learning and always seeking new knowledge and challenges
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuidoM197&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuidoM197&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 💻 Technologies and tools
+###
 
-Here are some of the technologies and tools that I use frequently:
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-- **Programming languages**: 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-ff603e?style=flat&logo=java&logoColor=white)
-  ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat&logo=clojure&logoColor=white)
+###
 
-- **Frameworks and librarys**: 
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="55" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="55" alt="clojure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
+</div>
 
-- **Databases**: 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
-  
-- **Development tools**: 
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GoLand](https://img.shields.io/badge/-GoLand-00ADD8?style=flat&logo=goland&logoColor=white)
-  ![IntelliJ IDEA Ultimate](https://img.shields.io/badge/-IntelliJ%20IDEA%20Ultimate-000000?style=flat&logo=intellijidea&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
+###
 
----
+<div align="center">
+  <a href="https://www.instagram.com/guidomazzucco/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/dogui4061" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="guidomazzucco04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/guido-mazzucco-300a8a2a7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### 📫 Contact
+###
 
-If you want to contact me or see more of my work, here are some useful links:
+<br clear="both">
 
-- [LinkedIn](https://www.linkedin.com/in/guido-mazzucco-300a8a2a7/)
-- [Email](mailto:guidomazzucco04@gmail.com)
+<img src="https://raw.githubusercontent.com/GuidoM197/GuidoM197/output/snake.svg" alt="Snake animation" />
 
----
-
-⭐️ _If you like my job, don't hesitate to star my projects on GitHub!_
-
+###
