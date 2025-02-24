@@ -1,6 +1,17 @@
 <h2 align="left">Hi 👋! My name is Guido Mazzucco and I'm a Software Engineering student at UBA.</h2>
 
+
+
 ###
+<br clear="both">
+
+<div align="center">
+  <img align="center" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuidoM197&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -8,12 +19,9 @@
 </div>
 
 ###
+<br clear="both">
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
@@ -37,6 +45,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://www.instagram.com/guidomazzucco/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
@@ -56,10 +66,12 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuidoM197/GuidoM197/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuidoM197/GuidoM197/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GuidoM197/GuidoM197/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuidoM197/GuidoM197/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuidoM197/GuidoM197/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/GuidoM197/GuidoM197/output/github-snake.svg" />
+  </picture>
+</div>
 
 ###
