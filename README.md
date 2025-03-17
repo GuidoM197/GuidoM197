@@ -11,7 +11,11 @@
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuidoM197&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuidoM197&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+
+  
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=GuidoM197&hide=HTML,css,Cython,c%2B%2B&langs_count=6&layout=compact&card_width=320&theme=dracula&hide_border=false&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="150" alt="top langs" />
+  
 </div>
 
 ###
